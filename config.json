@@ -1,0 +1,22 @@
+{
+  "servers": [
+    {
+      "ip": "115.190.182.156",
+      "port": "9002",
+      "priority": 1,
+      "enabled": true
+    },
+    {
+      "ip": "备用IP1",
+      "port": "9002", 
+      "priority": 2,
+      "enabled": true
+    },
+    {
+      "ip": "备用IP2",
+      "port": "9002",
+      "priority": 3,
+      "enabled": true
+    }
+  ]
+}
