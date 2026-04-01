@@ -12,12 +12,6 @@
       "port": "9002", 
       "priority": 2,
       "enabled": true
-    },
-    {
-      "ip": "备用IP2",
-      "port": "9002",
-      "priority": 3,
-      "enabled": true
     }
   ]
 }
