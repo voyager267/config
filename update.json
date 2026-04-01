@@ -1,0 +1,21 @@
+{
+  "updateTime": "2026-04-01 12:00:00",
+  "apps": {
+    "distribute": {
+      "version": "1.0.0",
+      "apkUrls": [
+        "https://cdn.jsdelivr.net/gh/voyager267/config/distribute.apk?v=1.0.0"
+      ],
+      "forceUpdate": false,
+      "desc": "修复bug"
+    },
+    "work": {
+      "version": "1.0.0",
+      "apkUrls": [
+        "https://cdn.jsdelivr.net/gh/voyager267/config/work.apk?v=1.0.0"
+      ],
+      "forceUpdate": false,
+      "desc": "重要更新"
+    }
+  }
+}
